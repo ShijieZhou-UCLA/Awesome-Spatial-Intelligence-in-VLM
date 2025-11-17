@@ -17,10 +17,10 @@ We welcome contributions of excellent resources you find via Pull Request!
 
 
 ## Table of Contents
-- [Awesome Spatial Intelligence in VLMs](#Awesome Spatial Intelligence in VLMs)
+- [Awesome Spatial Intelligence in VLMs](#awesome-spatial-intelligence-in-vlms)
   <!-- - [Overview](#Overview-of-Embodied-Multimodal-LLMs) -->
   - [Methods](#Methods)
-  - [Datasets & Benchmark](#Datasets-&-Benchmark)
+  - [Datasets & Benchmark](#Datasets--Benchmark)
   - [Applications](#Applications)
 
 
