@@ -7,8 +7,6 @@
 
 This carefully curated list brings together key methods, datasets, and benchmarks in the field of spatial intelligence for VLMs.
 
-Spatial reasoning is a core capability for achieving Artificial General Intelligence (AGI) and Physical Intelligence. It requires models to not only "see" objects but to also understand their positions, relationships, geometry, and dynamic changes within the 3D world.
-
 With the development of multimodal models, evaluating and enhancing their spatial intelligence has become a key research frontier. This list aims to provide researchers and engineers with a quick index to track the latest advancements in the field.
 
 We welcome contributions of excellent resources you find via Pull Request!
@@ -38,7 +36,9 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual-based methods
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: 
-| <br/>[Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images](https://arxiv.org/abs/2511.07222) | <img width="700" alt="image" src="imgs/Omni-View.png"> | 2025-101 | [Github](https://jkhu29.github.io/omni_view/) |
+| <br/>[Cambrian-S: Towards Spatial Supersensing in Video](https://arxiv.org/pdf/2511.04670) | <img width="700" alt="image" src="imgs/Cambrian-S.png"> | 2025-11 | [Github](https://cambrian-mllm.github.io/) |
+| <br/>[Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images](https://arxiv.org/abs/2511.07222) | <img width="700" alt="image" src="imgs/Omni-View.png"> | 2025-11 | [Github](https://jkhu29.github.io/omni_view/) |
+| <br/>[SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards](https://arxiv.org/abs/2511.07403) | <img width="700" alt="image" src="imgs/SpatialThinker.png"> | 2025-11 | [Github](https://pixl.cs.ox.ac.uk/spatial-thinker) |
 | <br/>[Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](https://arxiv.org/pdf/2510.27606) | <img width="700" alt="image" src="imgs/SpatialSSRL.png"> | 2025-10 | [Github](https://github.com/InternLM/Spatial-SSRL) |
 | <br/>[Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation](https://arxiv.org/abs/2510.08673) | <img width="700" alt="image" src="imgs/Puffin.png"> | 2025-10 | [Github](https://kangliao929.github.io/projects/puffin/) |
 | <br/>[Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](https://arxiv.org/html/2510.18632) | <img width="700" alt="image" src="imgs/3DThinker.png"> | 2025-10 | [Github](https://github.com/zhangquanchen/3DThinker) |
